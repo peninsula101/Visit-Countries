@@ -1,0 +1,33 @@
+.countries-list-bg-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 25px;
+  border-bottom: 1px solid #94a3b875;
+}
+
+.country-name {
+  color: #f8fafc;
+  margin: 8px 0;
+  font-family: 'Roboto';
+  font-size: 14px;
+}
+
+.visited-text {
+  font-family: 'Roboto';
+  text-align: center;
+  color: #94a3b8;
+  font-size: 14px;
+  padding: 4px 8px;
+  margin: 4px 0;
+}
+
+.visit-btn {
+  background-color: #3b82f6;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  color: #ffffff;
+  width: 60px;
+  height: 25px;
+}

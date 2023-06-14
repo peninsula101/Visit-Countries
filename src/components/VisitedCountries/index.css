@@ -1,0 +1,35 @@
+.flag-img-container {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 30%;
+  margin: 8px;
+  background-color: #94a3b820;
+  width: 20%;
+}
+
+.flag-img {
+  width: 100%;
+}
+
+.country-button-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 2px 12px;
+}
+
+.visited-country {
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+
+.remove-btn {
+  border: 1px solid #cbd5e1;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Roboto';
+  border-radius: 4px;
+  padding: 5px 10px;
+  cursor: pointer;
+  outline: none;
+}
